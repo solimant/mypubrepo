@@ -1,2 +1,2 @@
 #License Information
-None is amazing
+None
